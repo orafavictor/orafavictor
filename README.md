@@ -1,11 +1,17 @@
-### Olá! 👋
+### Olá! / Hello! 👋
 
-Sou um Desenvolvedor Full-Stack focado no ecossistema JavaScript. Com a formação concluída em Engenharia de Software, construo soluções completas, unindo o dinamismo do Front-end com uma base sólida na arquitetura e segurança do Back-end.
+🇧🇷 **PT-BR:**
+Sou um Desenvolvedor Full-Stack focado no ecossistema JavaScript. Com a formação concluída em Engenharia de Software, construo aplicações de ponta a ponta, unindo o dinamismo do Front-end com uma base sólida na arquitetura e segurança do Back-end.
 
-🚀 **Foco principal:** Node.js, React, TypeScript e Bancos de Dados SQL.
-💡 **Mentalidade:** Código limpo, automação e aprendizado contínuo.
+🇺🇸 **EN:**
+I'm a Full-Stack Developer focused on the JavaScript ecosystem. With a completed formation in Software Engineering, I build end-to-end applications, combining the dynamism of the Front-end with a solid foundation in Back-end architecture and security.
 
-### 🛠️ Tecnologias e Ferramentas
+🚀 **Foco principal / Main focus:** Node.js, React, TypeScript, SQL.
+💡 **Mentalidade / Mindset:** Clean code, automation, and continuous learning.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas / Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
